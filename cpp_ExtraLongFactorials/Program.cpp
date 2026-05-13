@@ -90,6 +90,14 @@ void extraLongFactorials(int n)
     cout << result;
 }
 
+/*
+Input (stdin)
+25
+Your Output (stdout)
+15511210043330985984000000
+Expected Output
+15511210043330985984000000
+*/
 int main()
 {
     string n_temp;
