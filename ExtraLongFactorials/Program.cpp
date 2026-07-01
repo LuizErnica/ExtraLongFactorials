@@ -16,7 +16,7 @@ string rtrim(const string&);
  */
 
 
-string BigSum(string a, string b)
+static string BigSum(string a, string b)
 {
     int sizeA = (int) a.size();
     int sizeB = (int) b.size();
@@ -68,7 +68,7 @@ string BigSum(string a, string b)
 }
 
 
-string BigMulti(int a, string b)
+static string BigMulti(int a, string b)
 {
     string result = "0";
 
@@ -78,7 +78,7 @@ string BigMulti(int a, string b)
     return result;
 }
 
-void extraLongFactorials(int n)
+static void extraLongFactorials(int n)
 {
     //    cout << BigSum("5555555555", "5555555555");
     //    cout << BigMulti(59, "300000");

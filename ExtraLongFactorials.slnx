@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ExtraLongFactorials/ExtraLongFactorials.vcxproj" Id="1077af09-ee0c-4646-9f54-ec858c70e791" />
+</Solution>
